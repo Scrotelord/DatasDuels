@@ -1,2 +1,2 @@
 # DatasDuels
-https://discord.gg/mZfUU9NbdR
+# Heading level 1 **[Bolded text](https://discord.gg/mZfUU9NbdR)**
